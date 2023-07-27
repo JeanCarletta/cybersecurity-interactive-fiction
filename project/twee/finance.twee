@@ -1,6 +1,6 @@
 :: AccomodationScamsIntroduction [nobr]
 <<set $currentChapter to "finance">>
-When November rolls around, ?A1 begins to do some research into housing for their second year. They heard from some older students how difficult it can be to find private accommodation, so they want to put a deposit down as early as possible to avoid stress down the road.
+When November rolls around, ?A1 begins to do some research into housing for their second year. They had heard from some older students how difficult it can be to find private accommodation, so they want to put a deposit down as early as possible to avoid stress down the road.
 <br><br> 
 ?A1 grows frustrated with the lack of available flats on the letting agency websites so they begin to look at flat advertisement sites instead. ?A1 is aware of the <span class="tooltip"><<link"scams">><<script>>Dialog.setup("Accommodations: How to Not Get Scammed", "AccommodationTooltip1");Dialog.wiki(Story.get("AccommodationTooltip1").processText());Dialog.open();<</script>><</link>></span> that target desperate students on these sites, so they are trying their best to stay <span class="tooltip"><<link"cautious">><<script>>Dialog.setup("Accommodations: How to Not Get Scammed", "AccommodationTooltip2");Dialog.wiki(Story.get("AccommodationTooltip2").processText());Dialog.open();<</script>><</link>></span> and alert online.
 <br><br>
