@@ -92,7 +92,7 @@ Dialog.open();
 	<style>#story-subtitle {display: none;}</style>
 <<case "students">>
 	<style>#story-subtitle {display: inherit;}</style>
-    Chapter Zero:<br>Meet The Students
+    Chapter Zero:<br>Meet The Students Hello World
 <<case "phishing">>
     <style>#story-subtitle {display: inherit;}</style>
     Chapter One:<br>Phishing
